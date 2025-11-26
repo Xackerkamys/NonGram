@@ -1,0 +1,5 @@
+{
+  "name": "NonGram",
+  "description": "A Telegram-inspired mobile messenger powered by Gemini AI.",
+  "requestFramePermissions": []
+}
